@@ -1,0 +1,11 @@
+{
+    "name": "composer/1haitao",
+    "description": "this is 1haitao rely on.",
+    "authors": [
+        {
+            "name": "WangHuiHui",
+            "email": "wanghuihui@1haitao.com"
+        }
+    ],
+    "require": {}
+}
