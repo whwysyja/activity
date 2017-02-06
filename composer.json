@@ -1,13 +1,19 @@
 {
     "name": "whwysyja/activity",
     "description": "this is 1haitao rely on.",
+    "keywords": [
+        "RSA util",
+        "web util",
+        "php web 工具类"
+    ],
     "authors": [
         {
             "name": "WangHuiHui",
             "email": "wanghuihui@1haitao.com"
         }
     ],
-    // 省略相关内容
+   
+   "license": "MIT",
     "require": {
         "php": ">=5.3.0" 
    },
