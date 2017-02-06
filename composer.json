@@ -2,17 +2,17 @@
     "name": "whwysyja/activity",
     "description": "this is 1haitao rely on.",
     "keywords": [
-        "RSA util",
-        "web util",
-        "php web 工具类"
-    ],
+        "1haitao"
+    ], 
+    "homepage": "http://www.1haitao.com/",
+    "type": "framework",
     "authors": [
         {
             "name": "WangHuiHui",
             "email": "wanghuihui@1haitao.com"
         }
     ],
-   
+   "minimum-stability": "stable",
    "license": "MIT",
     "require": {
         "php": ">=5.3.0" 
