@@ -12,7 +12,7 @@
             "email": "wanghuihui@1haitao.com"
         }
     ],
-   "minimum-stability": "stable",
+   "minimum-stability": "dev",
    "license": "MIT",
     "require": {
         "php": ">=5.3.0" 
